@@ -1,4 +1,4 @@
-## Artificial Neural Network Model (Finance Sector Project)
+## Customer Loyalty Turnover Forecasting (Artificial Neural Network Model) 
 
 ## Technical Documentation
 - Python == 3.11.0
