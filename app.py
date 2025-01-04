@@ -20,7 +20,7 @@ with open('scaler.pkl', 'rb') as file:
 
 
 ## streamlit app
-st.title('Customer Churn Prediction')
+st.title('Customer Loyalty Turnover Forecasting')
 
 # User input
 geography = st.selectbox('Geography', onehot_encoder_geo.categories_[0])
@@ -64,7 +64,16 @@ prediction_proba = prediction[0][0]
 
 st.write(f'Churn Probability: {prediction_proba:.2f}')
 
+# if prediction_proba > 0.5:
+#     st.write('The customer is likely to churn.')
+# else:
+#     st.write('The customer is not likely to churn.')
+
+
+
 if prediction_proba > 0.5:
-    st.write('The customer is likely to churn.')
+    st.write('The customer is predicted to discontinue their association.')
+    st.write('Recommended Action: Focus on retaining this customer may require additional engagement to stay loyal.')
 else:
-    st.write('The customer is not likely to churn.')
+    st.write('Customer loyalty is expected to be retained.')
+
