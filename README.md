@@ -23,3 +23,4 @@ The project leverages cutting-edge technologies, including Artificial Neural Net
     - User-friendly interface powered by Streamlit.
 - **Additional Ingredients:**
     - Thoughtful analysis, lots of mind, and innovative solutions.
+
