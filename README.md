@@ -43,7 +43,7 @@ The project leverages cutting-edge technologies, including Artificial Neural Net
 
 ## Contributors
 - Name: Alok Choudhary (Data Scientist)
-- Linkedin: https://www.linkedin.com/in/alok-choudhary9341776554/
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/alokchoudhary05/)
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
