@@ -26,16 +26,20 @@ The project leverages cutting-edge technologies, including Artificial Neural Net
 
 ## Installation and Setup
 1. Clone the repository:
-   `git clone https://github.com/alokchoudhary05/ANN-Classification-Banking.git`
+   ```base
+   git clone https://github.com/alokchoudhary05/ANN-Classification-Banking.git
 
-2. Navigate to the project directory:
-   `cd ANN-Classification-Banking`
+3. Navigate to the project directory:
+   ```base
+   cd ANN-Classification-Banking
 
-3. Install dependencies:
-   `pip install -r requirements.txt`
+5. Install dependencies:
+   ```base
+   pip install -r requirements.txt
 
-4. Run the Streamlit application:
-   `streamlit run app.py`
+7. Run the Streamlit application:
+   ```base
+   streamlit run app.py
 
 ## Contributors
 - Name: Alok Choudhary (Data Scientist)
