@@ -24,3 +24,30 @@ The project leverages cutting-edge technologies, including Artificial Neural Net
 - **Additional Ingredients:**
     - Thoughtful analysis, lots of mind, and innovative solutions.
 
+## Installation and Setup
+1. Clone the repository:
+   `git clone https://github.com/alokchoudhary05/ANN-Classification-Banking.git`
+
+2. Navigate to the project directory:
+   `cd ANN-Classification-Banking`
+
+3. Install dependencies:
+   `pip install -r requirements.txt`
+
+4. Run the Streamlit application:
+   `streamlit run app.py`
+
+## Project Workflow
+1. Data Preprocessing:
+    - Handle missing values, encode categorical data, and scale features.
+2. Exploratory Data Analysis (EDA):
+    - Visualize churn patterns and understand key drivers.
+3. Model Building:
+    - Train and evaluate models like Logistic Regression, Random Forest, and XGBoost.
+4. Deployment:
+    - Integrate the trained model into a Streamlit application.
+
+## Contributors
+- Name: Alok Choudhary (Data Scientist)
+- Linkedin: https://www.linkedin.com/in/alok-choudhary9341776554/
+
