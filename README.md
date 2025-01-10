@@ -37,17 +37,13 @@ The project leverages cutting-edge technologies, including Artificial Neural Net
 4. Run the Streamlit application:
    `streamlit run app.py`
 
-## Project Workflow
-1. Data Preprocessing:
-    - Handle missing values, encode categorical data, and scale features.
-2. Exploratory Data Analysis (EDA):
-    - Visualize churn patterns and understand key drivers.
-3. Model Building:
-    - Train and evaluate models like Logistic Regression, Random Forest, and XGBoost.
-4. Deployment:
-    - Integrate the trained model into a Streamlit application.
-
 ## Contributors
 - Name: Alok Choudhary (Data Scientist)
 - Linkedin: https://www.linkedin.com/in/alok-choudhary9341776554/
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Acknowledgments
+- Open-source libraries and datasets.
 
